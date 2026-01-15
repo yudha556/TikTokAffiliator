@@ -16,7 +16,7 @@ export default function Profile() {
         </Avatar>
 
         <div className="flex flex-col">
-            <h1 className="font-bold text-3xl ">Aldi Nur Cahyono</h1>
+            <h1 className="font-bold lg:text-3xl md:text-2xl text-xl">Aldi Nur Cahyono</h1>
             <p className="text-md">Content Creator Tik Tok</p>
         </div>
       </div>
